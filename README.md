@@ -1,4 +1,4 @@
-# Accelerating PET Kinetic Modeling via an analytic closed-form expression
+# Accelerating PET Kinetic Modeling via an analytic closed-form expression of the compartmental model operational equation
 
 This repository contains the MATLAB source code of the three implementations of two-tissue compartmental model fitting, discussed and compared in the paper: ***"Accelerated PET kinetic maps estimation by analytic fitting method"***
 
