@@ -13,5 +13,7 @@ An example is provided as a MATLAB script, to show a brief comparison of the afo
 We kindly ask to recognize the use of this software (or part of it) in your publications, by citing the paper:
 
 ```
-M. Scipioni, A. Giorgetti, D. Della Latta, S. Fucci, V. Positano, L. Landini, and M.F. Santarelli, *Accelerated PET kinetic maps estimation by analytic fitting method*, Comput. Biol. Med., xx (2018), pp. x-x, doi.
+M. Scipioni, A. Giorgetti, D. Della Latta, S. Fucci, V. Positano, L. Landini, and M.F. Santarelli, 
+Accelerated PET kinetic maps estimation by analytic fitting method, 
+Comput. Biol. Med., xx (2018), pp. x-x, doi.
 ```
